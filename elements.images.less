@@ -9,4 +9,12 @@ img {
 
     // Force correct aspect ratio of the image.
     height: auto;
+
+
+    // Prevent fluid image when width and/or height of the image is defined
+    // explicitly.
+    &[width],
+    &[height] {
+        max-width: none;
+    }
 }

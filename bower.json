@@ -1,11 +1,11 @@
 {
-  "name": "classy-images",
-  "version": "0.2.1",
+  "name": "classy-image",
+  "version": "0.3.0",
   "authors": [
     "Vital Kudzelka <vital.kudzelka@gmail.com>"
   ],
-  "description": "A base styling for images",
-  "main": "elements.images.less",
+  "description": "A base styling for image",
+  "main": "image.less",
   "keywords": [
     "css",
     "oocss"

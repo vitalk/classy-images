@@ -4,10 +4,10 @@ A base styling for images.
 
 ## Installation
 
-The recommended installation method is a [bower](http://bower.io).
+The recommended installation method is a [npm](https://www.npmjs.com/).
 
 ```shell
-bower install --save classy-images
+npm install --save-dev classy-image
 ```
 
 ## License
